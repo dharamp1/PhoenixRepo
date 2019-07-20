@@ -34,7 +34,6 @@ public class Book {
 		return price;
 	}
 	
-	public void getAuthor(){
-		return author;
-	}
+
+	
 }
