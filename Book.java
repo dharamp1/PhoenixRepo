@@ -33,4 +33,8 @@ public class Book {
 	public float getPrice(){
 		return price;
 	}
+	
+	public String getAuthor(){
+		return author;
+	}
 }
